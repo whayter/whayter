@@ -20,8 +20,11 @@
 
 ### Technologies I like the most:
 
-[![badge c][badge-c]]
-[![badge cplusplus][badge-cplusplus]]
+
+* ![badge c]([badge-c])
+* ![badge cplusplus]([badge-cplusplus])
+
+
 [![badge rust][badge-rust]]
 [![badge assembly][badge-assembly]]
 
