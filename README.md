@@ -14,16 +14,16 @@
 
 ### Links
 
-[![badge linkedin][badge-linkedin]][https://www.linkedin.com/in/whayter]
-[![badge codingame][badge-codingame]][https://www.codingame.com/profile/414357742b2ae1e1dfd9a5e99adb437b0361484]
+[![badge linkedin][badge-linkedin][https://www.linkedin.com/in/whayter]]
+[![badge codingame][badge-codingame][https://www.codingame.com/profile/414357742b2ae1e1dfd9a5e99adb437b0361484]]
 
 
 ### Technologies I like the most:
 
-[![badge c][badge-c]][https://google.com][/]
-[![badge cplusplus][badge-cplusplus]][/]
-[![badge rust][badge-rust]][/]
-[![badge assembly][badge-assembly]][/]
+[![badge c][badge-c]]
+[![badge cplusplus][badge-cplusplus]]
+[![badge rust][badge-rust]]
+[![badge assembly][badge-assembly]]
 
 
 ### And a few others that I master:
