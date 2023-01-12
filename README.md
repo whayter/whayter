@@ -21,18 +21,18 @@
 
 ### Technologies I like the most:
 
-* ![badge c](https://img.shields.io/badge/-C-grey?style=for-the-badge&logo=c)
-* ![badge cpp](https://img.shields.io/badge/-C++-grey?style=for-the-badge&logo=cplusplus)
-* ![badge rust](https://img.shields.io/badge/-rust-grey?style=for-the-badge&logo=rust)
-* ![badge assembly](https://img.shields.io/badge/-assembly-grey?style=for-the-badge&logo=assembly)
+![badge c](https://img.shields.io/badge/-C-grey?style=for-the-badge&logo=c)
+![badge cpp](https://img.shields.io/badge/-C++-grey?style=for-the-badge&logo=cplusplus)
+![badge rust](https://img.shields.io/badge/-rust-grey?style=for-the-badge&logo=rust)
+![badge assembly](https://img.shields.io/badge/-assembly-grey?style=for-the-badge&logo=assembly)
 
 
 ### And a few others that I master:
 
-* ![badge python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python)
-* ![badge typescript](https://img.shields.io/badge/-typescript-grey?style=for-the-badge&logo=typescript)
-* ![badge vuejs](https://img.shields.io/badge/-vuejs-grey?style=for-the-badge&logo=vue.js)
-* ![badge nestjs](https://img.shields.io/badge/-nestjs-grey?style=for-the-badge&logo=nestjs)
-* ![badge postgres](https://img.shields.io/badge/-postgres-grey?style=for-the-badge&logo=postgresql&&logoColor=white)
-* ![badge docker](https://img.shields.io/badge/-Docker-grey?style=for-the-badge&logo=docker)
-* ![badge bootstrap](https://img.shields.io/badge/-bootstrap-grey?style=for-the-badge&logo=bootstrap)
+![badge python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python)
+![badge typescript](https://img.shields.io/badge/-typescript-grey?style=for-the-badge&logo=typescript)
+![badge vuejs](https://img.shields.io/badge/-vuejs-grey?style=for-the-badge&logo=vue.js)
+![badge nestjs](https://img.shields.io/badge/-nestjs-grey?style=for-the-badge&logo=nestjs)
+![badge postgres](https://img.shields.io/badge/-postgres-grey?style=for-the-badge&logo=postgresql&&logoColor=white)
+![badge docker](https://img.shields.io/badge/-Docker-grey?style=for-the-badge&logo=docker)
+![badge bootstrap](https://img.shields.io/badge/-bootstrap-grey?style=for-the-badge&logo=bootstrap)
