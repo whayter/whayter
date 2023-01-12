@@ -12,21 +12,21 @@
 
 
 
-<h2>my favorite favorite technologies:</h2>
+### Links
 
 [![badge linkedin][badge-linkedin]][https://www.linkedin.com/in/whayter]
 [![badge codingame][badge-codingame]][https://www.codingame.com/profile/414357742b2ae1e1dfd9a5e99adb437b0361484]
 
 
-<h2>My favorite favorite technologies:</h2>
+### My favorite favorite technologies:
 
-[![badge c][badge-c]]
+[![badge c][badge-c]][https://google.com]
 [![badge cplusplus][badge-cplusplus]]
 [![badge rust][badge-rust]]
 [![badge assembly][badge-assembly]]
 
 
-<h2>And a few others that I master:</h2>
+### And a few others that I master:
 
 [![badge python][badge-python]]
 [![badge typescript][badge-typescript]]
