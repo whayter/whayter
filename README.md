@@ -20,6 +20,8 @@
 
 ### My favorite favorite technologies:
 
+[![badge assembly][badge-assembly]][link-linkedin]
+
 [![badge c][badge-c]][https://google.com]
 [![badge cplusplus][badge-cplusplus]]
 [![badge rust][badge-rust]]
@@ -35,6 +37,10 @@
 [![badge postgres][badge-postgres]]
 [![badge docker][badge-docker]]
 [![badge bootstrap][badge-bootstrap]]
+
+
+
+[link-linkedin]: https://www.linkedin.com/in/whayter
 
 
 <!-- badge images -->
