@@ -1,4 +1,4 @@
-Hi! I'm Winston, software engineer and coffee lover.
+### Hi! I'm Winston, software engineer and coffee lover.
 
 [![badge linkedin](https://img.shields.io/badge/-Linkedin-grey?style=for-the-badge&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/whayter)
 [![badge 42](https://img.shields.io/badge/-42%20Paris-grey?style=for-the-badge&logo=42)](https://profile.intra.42.fr/users/hwinston)
