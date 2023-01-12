@@ -18,14 +18,12 @@
 [![badge codingame][badge-codingame]][https://www.codingame.com/profile/414357742b2ae1e1dfd9a5e99adb437b0361484]
 
 
-### My favorite favorite technologies:
+### Technologies I like the most:
 
-[![badge assembly][badge-assembly]][link-linkedin]
-
-[![badge c][badge-c]][https://google.com]
-[![badge cplusplus][badge-cplusplus]]
-[![badge rust][badge-rust]]
-[![badge assembly][badge-assembly]]
+[![badge c][badge-c]][https://google.com][/]
+[![badge cplusplus][badge-cplusplus]][/]
+[![badge rust][badge-rust]][/]
+[![badge assembly][badge-assembly]][/]
 
 
 ### And a few others that I master:
